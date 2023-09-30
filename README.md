@@ -30,6 +30,7 @@ Internal Communication Tools
 - Lark Docs
 - GitHub
 - Figma
+- Height.app
 
 If you love the following companies' product or their employees, let's have a qucik chat, any topic is welcome
 - Vercel
